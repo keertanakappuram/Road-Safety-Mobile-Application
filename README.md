@@ -1,16 +1,16 @@
-# 🚗 Road Safety Mobile Application
+# Road Safety Mobile Application
 
 > An Android application that tracks the user's real-time location and delivers proactive alerts for nearby accidents, traffic incidents, and road hazards within a 500m radius.
 
 ---
 
-## 🎯 Problem
+## Problem
 
 Drivers and commuters are often unaware of nearby road hazards until it's too late. This application uses real-time geospatial matching against reported incident zones to proactively notify users of accidents, potholes, and traffic conditions — enabling safer route decisions before entering a danger zone.
 
 ---
 
-## ✨ Features
+## Features
 
 - **Secure Authentication** — user registration and login via Firebase Authentication
 - **Real-Time Location Tracking** — continuous GPS tracking via FusedLocationProviderClient
@@ -20,7 +20,7 @@ Drivers and commuters are often unaware of nearby road hazards until it's too la
 
 ---
 
-## 🏗️ Architecture
+## Architecture
 
 ```
 LoginActivity / RegisterActivity
@@ -38,7 +38,7 @@ LoginActivity / RegisterActivity
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Category | Tools |
 |----------|-------|
@@ -51,7 +51,7 @@ LoginActivity / RegisterActivity
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 ├── app/
@@ -78,7 +78,7 @@ LoginActivity / RegisterActivity
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ### Prerequisites
 - Android Studio Flamingo or later
